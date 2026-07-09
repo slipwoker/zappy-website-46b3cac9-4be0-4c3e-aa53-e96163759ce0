@@ -1,0 +1,74 @@
+# Buzzcut — Generative Engine Optimization Map
+
+> A men's barbershop focused on appointment booking, offering grooming and haircut services for male clientele. The business aims to streamline the scheduling process through a dedicated landing page.
+
+---
+
+## Pages
+
+### בית
+https://buzzcut-46b3cac9.zappy5.app
+מחפש מספרה לגברים שתחסוך לך זמן? ב-Buzzcut קובעים תור בקלות, נהנים מתספורת מדויקת וחוזרים הביתה מסודרים מתמיד. הצטרף עכשיו לג&#39;נטלמנים המטופחים!
+
+### תודה - Buzzcut
+https://buzzcut-46b3cac9.zappy5.app/thank-you
+Buzzcut - תודה - Buzzcut
+
+## Legal & Policy
+
+### Privacy Policy
+https://buzzcut-46b3cac9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://buzzcut-46b3cac9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://buzzcut-46b3cac9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://buzzcut-46b3cac9.zappy5.app
+- Endpoint: https://buzzcut-46b3cac9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Buzzcut
+A men's barbershop focused on appointment booking, offering grooming and haircut services for male clientele. The business aims to streamline the scheduling process through a dedicated landing page.
+
+## Services/Products
+- קביעת תורים
+
+## Target Audience
+- גברים
+- אנשי מקצוע עסוקים
+- חובבי סטייל
+- תושבי האזור
+
+## Industry
+Barbershop
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://buzzcut-46b3cac9.zappy5.app/sitemap.xml
+- Robots: https://buzzcut-46b3cac9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://buzzcut-46b3cac9.zappy5.app/llms-full.txt
